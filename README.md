@@ -45,7 +45,7 @@ Project Demonstration
 "▶️ Watch Project Demo" (https://drive.google.com/file/d/1qdtQZAqS54wUqXhoQDpn4-uRm1NHIEZT/view?usp=drivesdk)
 Project Files
 
-- "src/ultrasonic_alarm.ino" – Arduino source code
+- "src/Alarm System.ino" – Arduino source code
 - "src/ultrasonic-project-live.jpg.jpeg" – Live hardware project photograph
 - "Ultrasonic_Alarm_Project_Report.pdf" – Project report
 
